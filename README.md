@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👩‍💻 Welcome to my GitHub profile
 
-<!--
-**BraisAM/BraisAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m a full‑stack developer passionate about building practical and meaningful web applications.  
+Here's a featured project I developed as part of a team during an intensive bootcamp:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 SheTravel — Full‑Stack Bootcamp Project
+
+- 📂 **Repository**: [2023-BFS-3-G4 · GitHub](https://github.com/BraisAM/2023-BFS-3-G4)  
+- 🌐 **Live Demo**: [Try SheTravel](https://campusdual.org/demos/public/2023-BFS-3-G4_sheTravel/)
+
+**SheTravel** is a web application that helps women plan safer and more empowering travel experiences.
+
+This project was developed collaboratively in a 4‑person team during the [CampusDual Full‑Stack Bootcamp 2023](https://campusdual.org/).
+
+---
+
+Thanks for visiting my profile 🙌  
+I'm always open to learning, collaborating, and growing professionally!
