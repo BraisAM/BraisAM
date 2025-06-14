@@ -1,7 +1,7 @@
 # 👩‍💻 Welcome to my GitHub profile
 
 Hi! I’m a full‑stack developer passionate about building practical and meaningful web applications.  
-Here's a featured project I developed as part of a team during an intensive bootcamp:
+Here are some projects I developed:
 
 ---
 
